@@ -1,0 +1,16 @@
+# Compiled binaries
+part1/shell
+part1/mylib.o
+part1/libmylib.a
+part1/libmylib.so
+part3/server
+part3/client
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output files
+part4/output.txt
+part4/downloaded_output.txt
+part3/received_file1.txt
