@@ -7,12 +7,6 @@
 
 ---
 
-## Demo Video
-
-> **[Insert unlisted YouTube link here]**
-
----
-
 ## Part 1 – Interactive Shell with Custom Static & Dynamic Libraries
 
 ### Summary
