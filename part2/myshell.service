@@ -4,10 +4,8 @@ After=network.target
 
 [Service]
 Type=simple
-# Update this path to match where you deploy the shell binary on EC2
-ExecStart=/home/ec2-user/part1/shell
-WorkingDirectory=/home/ec2-user/part1
-StandardInput=null
+ExecStart=/home/nick/Documents/Final_for_SP/part2/myshell_daemon.sh
+WorkingDirectory=/home/nick/Documents/Final_for_SP/part2
 StandardOutput=journal
 StandardError=journal
 Restart=on-failure
